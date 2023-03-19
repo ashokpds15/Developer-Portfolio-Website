@@ -5,23 +5,23 @@ import emoji from "react-easy-emoji";
 // Your Summary And Greeting Section
 
 const greeting = {
-  username: "Bharat Kammakatla",
-  title: "Hi all, I'm Bharat",
+  username: "Ashok Pudasaini",
+  title: "Namaskar all, I'm Ashok",
   subTitle: emoji(
     "Front End Developer 👨‍💻 | Test Automation Engineer 🤖 | Tech Writer ✍️ "
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1gsPhoU4Dg-bFSlf3K-SFrKHO0XTBpS0i/view?usp=sharing",
+    //"https://drive.google.com/file/d/1gsPhoU4Dg-bFSlf3K-SFrKHO0XTBpS0i/view?usp=sharing",
 };
 
 // Your Social Media Link
 
 const socialMediaLinks = {
-  github: "https://github.com/bharatkammakatla",
-  linkedin: "https://www.linkedin.com/in/bharatkammakatla",
-  gmail: "bharatkammakatla@gmail.com",
-  facebook: "https://www.facebook.com/bharat.kammakatla",
-  twitter: "https://twitter.com/Bharat__K",
+  github: "https://github.com/ashokpds15",
+  instagram: "https://www.instagram.com/aadit_chhetri",
+  gmail: "ashokpds15@gmail.com",
+  facebook: "https://www.facebook.com/ask915",
+  twitter: "https://twitter.com/ashokpds15",
 };
 
 // Your Skills Section
@@ -36,7 +36,7 @@ const skillsSection = {
     ),
     emoji("⚡ End to End automation executions"),
     emoji(
-      "⚡ Working on test automation tools like Selenium, Appium, UFT, SoapUI, AutoIT, Katalon Studio, Seetest Mobile Cloud administration, etc"
+      "⚡ Working on test automation tools like Selenium"
     ),
     emoji(
       "⚡ Building predictive models to extract insights and make decisions out of data"
@@ -66,22 +66,8 @@ const skillsSection = {
       },
     },
     {
-      skillName: "maven",
-      classname: "vscode-icons:file-type-maven",
-      style: {
-        backgroundColor: "transparent",
-      },
-    },
-    {
       skillName: "git",
       classname: "logos:git-icon",
-      style: {
-        backgroundColor: "transparent",
-      },
-    },
-    {
-      skillName: "jenkins",
-      classname: "vscode-icons:file-type-jenkins",
       style: {
         backgroundColor: "transparent",
       },
@@ -266,8 +252,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+852 51606863",
-  email_address: "bharatkammakatla@gmail.com",
+  number: "+977 9849412342",
+  email_address: "ashokpds15@gmail.com",
 };
 
 export {
